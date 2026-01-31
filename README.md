@@ -20,3 +20,5 @@ Created while preparing for junior Linux Administrator and DevOps roles in Cairo
 
 # Run
 ./backup.sh
+./logwatch.sh
+./sysinfo.sh 
